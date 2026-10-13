@@ -1,0 +1,6 @@
+svg xmlns=httpwww.w3.org2000svg viewBox=0 0 100 100
+  rect width=100 height=100 rx=20 fill=#1E40AF
+  path d=M50 20 L15 35 L50 50 L85 35 Z fill=#60A5FA
+  path d=M20 38 V60 C20 65, 30 70, 50 70 C70 70, 80 65, 80 60 V38 L50 53 Z fill=#60A5FA
+  path d=M85 35 V55 M85 55 L82 62 H88 L85 55 Z stroke=#60A5FA stroke-width=3 fill=none
+svg
